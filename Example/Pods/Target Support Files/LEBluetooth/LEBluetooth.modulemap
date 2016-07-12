@@ -1,0 +1,6 @@
+framework module LEBluetooth {
+  umbrella header "LEBluetooth-umbrella.h"
+
+  export *
+  module * { export * }
+}

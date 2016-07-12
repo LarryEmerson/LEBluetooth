@@ -1,0 +1,19 @@
+PODS:
+  - BabyBluetooth (0.7.0)
+  - LEBluetooth (0.1.0):
+    - BabyBluetooth
+
+DEPENDENCIES:
+  - LEBluetooth (from `../`)
+
+EXTERNAL SOURCES:
+  LEBluetooth:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BabyBluetooth: d50758aecf24d4a0ab9271d69f0f116d6bee51c9
+  LEBluetooth: ee4d6dec6d4abfb27f29520d05c4eef27bdfa05d
+
+PODFILE CHECKSUM: ff50033eb1a60a944926d635158f15aaac651012
+
+COCOAPODS: 1.0.1
