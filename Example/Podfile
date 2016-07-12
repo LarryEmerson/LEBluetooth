@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LEBluetooth_Tests' do
+  pod 'LEBluetooth', :path => '../'
+  
+  
+end
